@@ -1,3 +1,43 @@
+# Reactjs Admin Panel
+
+Free for all sort of projects.
+
+[Screenshot] `In progress`
+
+Build complex forms, tables and view with json data. 
+
+## Features
+- Material UI - `Added to project`
+- Cover Basic pages - `In progress`
+- Cover Most of the components - `1% Completed`
+- Localization - `Not yet though about`
+- Documentation Wiki - `Just started`
+- Demo - `Noting to show for now`
+- `You can add more here, using issues`
+
+## Pages
+- Login - `In progress`
+- Dashboard - `In progress`
+- `I will be adding more soon`
+
+## Components
+- Sidebar Menu - `In progress`
+- Page Bar - `Thinking about it`
+- Form Builder - `With json data it will build complex forms`
+- Form - `Status loading..`
+    - Input - `Status loading..`
+    - Dropdown - `Status loading..`
+    - Date and time selector - `Status loading..`
+- `I will be adding more soon`
+
+## Can I JOIN ? 
+Sure, poke me with merge request :D
+
+## Quick Links
+https://github.com/mui-org/material-ui
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
