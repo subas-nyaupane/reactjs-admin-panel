@@ -7,7 +7,7 @@ Free for all sort of projects.
 Build complex forms, tables and view with json data. 
 
 ## Features
-- Material UI - `Added to project`
+- Ant Design - `Added to project`
 - Cover Basic pages - `In progress`
 - Cover Most of the components - `1% Completed`
 - Localization - `Not yet though about`
@@ -34,7 +34,7 @@ Build complex forms, tables and view with json data.
 Sure, poke me with merge request :D
 
 ## Quick Links
-https://github.com/mui-org/material-ui
+- https://ant.design
 
 ---
 
